@@ -1,0 +1,11 @@
+C:\Users\odellkc\OneDrive - Daikin Applied Americas\Documents\TimCoreyC#\WinFormsAddressBookAPP\AddressBookLibrary\bin\Debug\net8.0\AddressBookLibrary.deps.json
+C:\Users\odellkc\OneDrive - Daikin Applied Americas\Documents\TimCoreyC#\WinFormsAddressBookAPP\AddressBookLibrary\bin\Debug\net8.0\AddressBookLibrary.dll
+C:\Users\odellkc\OneDrive - Daikin Applied Americas\Documents\TimCoreyC#\WinFormsAddressBookAPP\AddressBookLibrary\bin\Debug\net8.0\AddressBookLibrary.pdb
+C:\Users\odellkc\OneDrive - Daikin Applied Americas\Documents\TimCoreyC#\WinFormsAddressBookAPP\AddressBookLibrary\obj\Debug\net8.0\AddressBookLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\odellkc\OneDrive - Daikin Applied Americas\Documents\TimCoreyC#\WinFormsAddressBookAPP\AddressBookLibrary\obj\Debug\net8.0\AddressBookLibrary.AssemblyInfoInputs.cache
+C:\Users\odellkc\OneDrive - Daikin Applied Americas\Documents\TimCoreyC#\WinFormsAddressBookAPP\AddressBookLibrary\obj\Debug\net8.0\AddressBookLibrary.AssemblyInfo.cs
+C:\Users\odellkc\OneDrive - Daikin Applied Americas\Documents\TimCoreyC#\WinFormsAddressBookAPP\AddressBookLibrary\obj\Debug\net8.0\AddressBookLibrary.csproj.CoreCompileInputs.cache
+C:\Users\odellkc\OneDrive - Daikin Applied Americas\Documents\TimCoreyC#\WinFormsAddressBookAPP\AddressBookLibrary\obj\Debug\net8.0\AddressBookLibrary.dll
+C:\Users\odellkc\OneDrive - Daikin Applied Americas\Documents\TimCoreyC#\WinFormsAddressBookAPP\AddressBookLibrary\obj\Debug\net8.0\refint\AddressBookLibrary.dll
+C:\Users\odellkc\OneDrive - Daikin Applied Americas\Documents\TimCoreyC#\WinFormsAddressBookAPP\AddressBookLibrary\obj\Debug\net8.0\AddressBookLibrary.pdb
+C:\Users\odellkc\OneDrive - Daikin Applied Americas\Documents\TimCoreyC#\WinFormsAddressBookAPP\AddressBookLibrary\obj\Debug\net8.0\ref\AddressBookLibrary.dll

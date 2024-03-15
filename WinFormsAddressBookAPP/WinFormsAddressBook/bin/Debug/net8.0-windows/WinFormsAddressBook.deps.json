@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WinFormsAddressBook/1.0.0": {
+        "dependencies": {
+          "AddressBookLibrary": "1.0.0"
+        },
+        "runtime": {
+          "WinFormsAddressBook.dll": {}
+        }
+      },
+      "AddressBookLibrary/1.0.0": {
+        "runtime": {
+          "AddressBookLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WinFormsAddressBook/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AddressBookLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
